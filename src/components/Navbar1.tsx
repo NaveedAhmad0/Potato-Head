@@ -619,7 +619,7 @@ const Navbar1 = () => {
 					<Row>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img198}
 							/>
@@ -637,7 +637,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img0}
 							/>
@@ -655,7 +655,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img197}
 							/>
@@ -673,7 +673,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img195}
 							/>
@@ -691,7 +691,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img194}
 							/>
@@ -709,7 +709,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img196}
 							/>
@@ -727,7 +727,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img199}
 							/>
@@ -745,7 +745,7 @@ const Navbar1 = () => {
 						</Col>
 						<Col>
 							<Card.Img
-								style={{ width: "8rem", borderRadius: "35px" }}
+								style={{ width: "7rem", borderRadius: "35px" }}
 								variant="top"
 								src={img193}
 							/>
@@ -775,7 +775,7 @@ const Navbar1 = () => {
 								className="card55"
 								id="card555"
 								style={{
-									width: "17rem",
+									width: "15rem",
 									// backgroundColor: "#232c64",
 									borderRadius: "15px",
 								}}>
@@ -814,7 +814,7 @@ const Navbar1 = () => {
 								className="card55"
 								id="card555"
 								style={{
-									width: "17rem",
+									width: "15rem",
 									// backgroundColor: "#232c64",
 									borderRadius: "15px",
 								}}>
@@ -853,7 +853,7 @@ const Navbar1 = () => {
 								className="card55"
 								id="card555"
 								style={{
-									width: "17rem",
+									width: "15rem",
 									// backgroundColor: "#232c64",
 									borderRadius: "15px",
 								}}>
@@ -892,7 +892,7 @@ const Navbar1 = () => {
 								className="card55"
 								id="card555"
 								style={{
-									width: "17rem",
+									width: "15rem",
 									// backgroundColor: "#232c64",
 									borderRadius: "15px",
 								}}>
