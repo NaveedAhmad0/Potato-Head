@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  overflow-x: hidden;
+	overflow-x: hidden !important;
 }
 
 .App-logo {
@@ -97,6 +97,7 @@
 }
 .body {
   background-color: #282c34;
+	overflow-x: hidden !important;
 }
 
 @keyframes App-logo-spin {
